@@ -22,7 +22,6 @@ body {
     padding: 15px;
     padding-bottom: 15px;
     background-color: white;
-    width: 81%;
 }
 
 .container-fluid {
@@ -236,6 +235,5 @@ input[type=submit] {
     padding: 30px;
     line-height: 26px;
     background: white;
-   
 }
 
